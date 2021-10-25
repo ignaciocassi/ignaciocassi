@@ -17,4 +17,7 @@
 - Cursos sobre bases de datos en PostgreSQL y MySQL.
 - Curso sobre metodologías ágiles (SCRUM).
  
+## Mi Stack y las herramientas que utilizo:
+[![IntelliJIdea Badge](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.linkedin.com/in/danielignacio-cassi-7504661b9/) 
+ 
 ## Ver mi <a href='https://drive.google.com/file/d/1d0u_U9Y_zXxhhYxxupEnmACDMheEDVQF ' target=_blank><u>Currículum Vitae</u>.</a></p>
