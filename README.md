@@ -15,8 +15,8 @@
 - Estudio sobre estructuras de datos y algoritmos.
 - Cursos sobre bases de datos en PostgreSQL y MySQL.
 - Curso sobre metodologías ágiles (SCRUM).
-</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1d0u_U9Y_zXxhhYxxupEnmACDMheEDVQF ' target=_blank><u>here</u>.</a></p>
-## Some of my Github Stats
+</p><p align='left'> Ver mi Currículum Vitae: <a href='https://drive.google.com/file/d/1d0u_U9Y_zXxhhYxxupEnmACDMheEDVQF ' target=_blank><u>here</u>.</a></p>
+## Algunas de mis estadísticas de GitHub
 <p align=left> <img src=https://komarev.com/ghpvc/?username=github.com/ignaciocassi alt=github.com/ignaciocassi /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=github.com/ignaciocassi&show_icons=true&include_all_commits=true)](https://github.com/github.com/ignaciocassi/github-readme-stats)
