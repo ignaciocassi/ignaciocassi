@@ -3,6 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielignacio-cassi-7504661b9/) 
 [![Portfolio Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.notion.so/dignacioc/Hola-Soy-Ignacio-Cassi-9c7eeeda8ad341a290e8aab898bf6bba/) <p align='left'>
  
+ 
+## Ver mi <a href='https://drive.google.com/file/d/1d0u_U9Y_zXxhhYxxupEnmACDMheEDVQF ' target=_blank><u>Currículum Vitae</u>.</a></p>
+ 
  ## Sobre mí:
  - :computer: Me apasiona el Diseño y Desarrollo de Software.
  - :book: Siempre estoy aprendiendo algo nuevo! 
@@ -32,4 +35,3 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
  
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ignaciocassi)
-## Ver mi <a href='https://drive.google.com/file/d/1d0u_U9Y_zXxhhYxxupEnmACDMheEDVQF ' target=_blank><u>Currículum Vitae</u>.</a></p>
