@@ -15,5 +15,6 @@
 - Estudio sobre estructuras de datos y algoritmos.
 - Cursos sobre bases de datos en PostgreSQL y MySQL.
 - Curso sobre metodologías ágiles (SCRUM).
+ ---
  
 ## Ver mi <a href='https://drive.google.com/file/d/1d0u_U9Y_zXxhhYxxupEnmACDMheEDVQF ' target=_blank><u>Currículum Vitae</u>.</a></p>
