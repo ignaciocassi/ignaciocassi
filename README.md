@@ -16,4 +16,4 @@
 - Cursos sobre bases de datos en PostgreSQL y MySQL.
 - Curso sobre metodologías ágiles (SCRUM).
  
-## Ver mi Currículum Vitae: <a href='https://drive.google.com/file/d/1d0u_U9Y_zXxhhYxxupEnmACDMheEDVQF ' target=_blank><u>here</u>.</a></p>
+## Ver mi Currículum Vitae <a href='https://drive.google.com/file/d/1d0u_U9Y_zXxhhYxxupEnmACDMheEDVQF ' target=_blank><u>acá</u>.</a></p>
