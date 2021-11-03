@@ -4,7 +4,7 @@
 [![Portfolio Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.notion.so/dignacioc/Hola-Soy-Ignacio-Cassi-9c7eeeda8ad341a290e8aab898bf6bba/) <p align='left'>
  
  
-## Ver mi <a href='https://drive.google.com/file/d/1d0u_U9Y_zXxhhYxxupEnmACDMheEDVQF ' target=_blank><u>Currículum Vitae</u>.</a></p>
+## Ver mi <a href='https://drive.google.com/file/d/1d0u_U9Y_zXxhhYxxupEnmACDMheEDVQF/view?usp=sharing' target=_blank><u>Currículum Vitae</u>.</a></p>
  
  ## Sobre mí:
  - :computer: Me apasiona el Diseño y Desarrollo de Software.
