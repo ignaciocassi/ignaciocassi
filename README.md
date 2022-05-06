@@ -9,9 +9,9 @@
 ## Ver mi <a href='https://drive.google.com/file/d/1d0u_U9Y_zXxhhYxxupEnmACDMheEDVQF/view?usp=sharing' target=_blank><u>Currículum Vitae</u>.</a></p>
  
  ## Sobre mí:
- - :airplane: Actualmente trabajo como Desarrollador en Aeropuertos Argentina 2000.
  - :computer: Me apasiona el Diseño y Desarrollo de Software.
  - :book: Siempre estoy aprendiendo algo nuevo! 
+ - :airplane: Actualmente trabajo como Desarrollador en Aeropuertos Argentina 2000.
  - :rocket: Actualmente estoy enfocado en el desarrollo Back-End.
  - :star: Mi objetivo es convertirme en desarrollador Full Stack.
 
