@@ -7,12 +7,14 @@
 ## Ver mi <a href='https://drive.google.com/file/d/1d0u_U9Y_zXxhhYxxupEnmACDMheEDVQF/view?usp=sharing' target=_blank><u>Currículum Vitae</u>.</a></p>
  
  ## Sobre mí:
+ - :airplane: Actualmente trabajo como Desarrollador en Aeropuertos Argentina 2000.
  - :computer: Me apasiona el Diseño y Desarrollo de Software.
  - :book: Siempre estoy aprendiendo algo nuevo! 
  - :rocket: Actualmente estoy enfocado en el desarrollo Back-End.
  - :star: Mi objetivo es convertirme en desarrollador Full Stack.
 
 ##  Mi trabajo reciente:
+- Mantenimiento y desarrollo de webapps Java (Spring, Spring MVC, Oracle, Spring Boot)
 - Aprendizaje sobre Java Spring Boot, RESTful APIs y otros módulos de Spring.
 - Desarrollo de Marketify, un sistema multiplataforma de compra-venta de productos para distribuidores y comerciantes.
 - Curso de testing de APIs con Postman.
