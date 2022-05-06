@@ -11,7 +11,6 @@
  ## Sobre mí:
  - :computer: Me apasiona el Diseño y Desarrollo de Software.
  - :book: Siempre estoy aprendiendo algo nuevo! 
- - :airplane: Actualmente trabajo como Desarrollador en Aeropuertos Argentina 2000.
  - :rocket: Actualmente estoy enfocado en el desarrollo Back-End.
  - :star: Mi objetivo es convertirme en desarrollador Full Stack.
 
