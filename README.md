@@ -2,7 +2,7 @@
 ## Estudiante de Tecnicatura Universitaria en Desarrollo de Software y Desarrollador en Aeropuertos Argentina 2000 :airplane:
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dignaciocassi@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielignacio-cassi-7504661b9/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ignacio-cassi-7504661b9/)
  
 ## Ver mi <a href='https://drive.google.com/file/d/1d0u_U9Y_zXxhhYxxupEnmACDMheEDVQF/view?usp=sharing' target=_blank><u>Currículum Vitae</u>.</a></p>
  
