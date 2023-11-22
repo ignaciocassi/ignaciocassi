@@ -11,16 +11,6 @@
  - :book: Siempre estoy aprendiendo algo nuevo! 
  - :rocket: Actualmente estoy enfocado en el desarrollo Back-End.
  - :star: Mi objetivo es convertirme en desarrollador Full Stack.
-
-##  Mi trabajo reciente:
-- Mantenimiento y desarrollo de webapps Java (Spring, Spring MVC, Oracle, Spring Boot)
-- Administracion de servidores de aplicaciones WebLogic 11g, contenedores Tomcat.
-- Aprendizaje sobre Java Spring Boot, RESTful APIs y otros módulos de Spring.
-- Desarrollo de Marketify, un sistema multiplataforma de compra-venta de productos para distribuidores y comerciantes.
-- Curso de testing de APIs con Postman.
-- Estudio sobre estructuras de datos y algoritmos.
-- Cursos sobre bases de datos en PostgreSQL y MySQL.
-- Curso sobre metodologías ágiles (SCRUM).
  
 ## Mi Stack y las herramientas que utilizo:
 
