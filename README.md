@@ -1,18 +1,11 @@
-## Hola 👋, soy Ignacio Cassi.
-## Estudiante de Tecnicatura Universitaria en Desarrollo de Software y Desarrollador en Aeropuertos Argentina 2000 :airplane:
+## Hi 👋, I'm Ignacio Cassi.
+## Software Developer at Aeropuertos Argentina 2000 :airplane: and student at UADE 📚:
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dignaciocassi@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ignacio-cassi-7504661b9/)
+
  
-## Ver mi <a href='https://drive.google.com/file/d/1d0u_U9Y_zXxhhYxxupEnmACDMheEDVQF/view?usp=sharing' target=_blank><u>Currículum Vitae</u>.</a></p>
- 
- ## Sobre mí:
- - :computer: Me apasiona el Diseño y Desarrollo de Software.
- - :book: Siempre estoy aprendiendo algo nuevo! 
- - :rocket: Actualmente estoy enfocado en el desarrollo Back-End.
- - :star: Mi objetivo es convertirme en desarrollador Full Stack.
- 
-## Mi Stack y las herramientas que utilizo:
+## My Tech Stack:
 
 ![IntelliJIdea](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
