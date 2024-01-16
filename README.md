@@ -23,10 +23,6 @@ As of today, I'm 2 years into a software development role at Aeropuertos Argenti
 
 Currently, I am diving deep into advanced React and microservices. Excited about the endless possibilities and challenges this journey brings!to enhance my skill set.
 
-## 👯‍♂️ Let's Connect!
-
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourusername)
-
 ## 🌐 Soft Skills
 
 - **Communication:** Effectively communicate complex technical concepts to both technical and non-technical stakeholders.
@@ -34,7 +30,6 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourusern
 - **Problem-Solving:** Approach challenges with a problem-solving mindset, always seeking efficient and effective solutions.
 - **Adaptability:** Quickly adapt to new technologies and methodologies in the ever-evolving field of software development.
 - **Attention to Detail:** Pay meticulous attention to detail to ensure the quality and reliability of the code I produce.
-
 
 ##  🚀 Let's code something amazing together!
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dignaciocassi@gmail.com) 
