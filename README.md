@@ -1,24 +1,42 @@
-## Hi 👋 I'm Ignacio Cassi, Software Developer at Aeropuertos Argentina 2000 :airplane:
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dignaciocassi@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ignacio-cassi-7504661b9/)
+# Hello! 👋 I'm Ignacio, a Full-Stack Developer from Argentina.
 
- 
-## My Tech Stack:
+With a deep understanding of full-stack development, I'm comfortable diving into the back-end world, architecting  **robust and scalable solutions** to tackle any problem , as I am delving into the front-end realm, crafting  **immersive user experiences**. I thrive on the challenge of finding solutions that drive business success.
 
-![IntelliJIdea](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
-![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
- 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ignaciocassi)
+## 💻 Technologies and Tools
+
+- **Languages:** Java, Python, C#, SQL
+- **Frameworks:** Spring (Framework, Boot, Data JPA, MVC, Web, Security), .NET Framework, Hibernate, JUnit, Swagger, Git, Jenkins
+- **Databases:** MySQL, PostgreSQL, Oracle
+- **Tools:** Maven, JAX-WS, JasperReports, IntellijIDEA, Postman, PyCharm, Rider, Visual Studio
+- **Version Control:** Git
+- **Testing:** JUnit, Mockito
+- **APIs:** SOAP and REST Webservices
+- **Frontend:** HTML, CSS, JS, AJAX, Jquery React, Vite, TailwindCSS, Typescript, Visual Studio Code, Webstorm
+- **Cloud:** Azure DevOps, Amazon S3, Amazon EC2, Docker
+
+## 🚀 What I'm Currently Working On
+
+As of today, I'm 2 years into a software development role at Aeropuertos Argentina 2000, where I take part on the development and maintainance of webapps in Java and C# in a agile and multidisciplinary team.
+
+## 🌱 What I'm Learning
+
+Currently, I am diving deep into advanced React and microservices. Excited about the endless possibilities and challenges this journey brings!to enhance my skill set.
+
+## 👯‍♂️ Let's Connect!
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourusername)
+
+## 🌐 Soft Skills
+
+- **Communication:** Effectively communicate complex technical concepts to both technical and non-technical stakeholders.
+- **Collaboration:** Enjoy working in cross-functional teams and believe in the power of collaboration to achieve exceptional results.
+- **Problem-Solving:** Approach challenges with a problem-solving mindset, always seeking efficient and effective solutions.
+- **Adaptability:** Quickly adapt to new technologies and methodologies in the ever-evolving field of software development.
+- **Attention to Detail:** Pay meticulous attention to detail to ensure the quality and reliability of the code I produce.
+
+
+##  🚀 Let's code something amazing together!
+Send me an email: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dignaciocassi@gmail.com) 
+DM me on LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+](https://www.linkedin.com/in/daniel-ignacio-cassi-7504661b9/) 
