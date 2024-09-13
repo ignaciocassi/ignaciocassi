@@ -14,7 +14,6 @@ With a deep understanding of full-stack development, I'm comfortable diving into
 - **APIs:** SOAP and REST Webservices
 - **Frontend:** HTML, CSS, JS, AJAX, Jquery React, Vite, TailwindCSS, Typescript, Visual Studio Code, Webstorm
 - **Cloud:** Azure DevOps, Amazon S3, Amazon EC2, Docker
-- 
 ## 🌐 Soft Skills
 
 - **Communication:** Effectively communicate complex technical concepts to both technical and non-technical stakeholders.
