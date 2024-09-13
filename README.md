@@ -14,15 +14,7 @@ With a deep understanding of full-stack development, I'm comfortable diving into
 - **APIs:** SOAP and REST Webservices
 - **Frontend:** HTML, CSS, JS, AJAX, Jquery React, Vite, TailwindCSS, Typescript, Visual Studio Code, Webstorm
 - **Cloud:** Azure DevOps, Amazon S3, Amazon EC2, Docker
-
-## 🚀 What I'm Currently Working On
-
-As of today, I'm 2 years into a software development role at Aeropuertos Argentina 2000, where I take part on the development and maintainance of webapps in Java and C# in a agile and multidisciplinary team.
-
-## 🌱 What I'm Learning
-
-Currently, I am diving deep into advanced React and microservices. Excited about the endless possibilities and challenges this journey brings!to enhance my skill set.
-
+- 
 ## 🌐 Soft Skills
 
 - **Communication:** Effectively communicate complex technical concepts to both technical and non-technical stakeholders.
